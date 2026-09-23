@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "cfb9cfaf55c224df2b518b11",
+  "owner": "dhhhtpkfd",
+  "repo": "page-3cdd2f8a86745f9c870fcb67",
+  "title": "KUGO",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "3cdd2f8a86745f9c870fcb67",
+      "a": "KUGO",
+      "b": "机场官网线路发布页",
+      "entity": "KUGO",
+      "brand": "KUGO",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "03700c335ca0c6d3e73529e79f010cb01a562e45944b1ae05fd7eef3313b088d",
+      "content": {
+        "primary_entity": "KUGO",
+        "keyword1": "KUGO",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，在客户端内导入订阅链接即可日常使用。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLOSING_TEXT": "选定套餐后导入订阅，即可让常用设备连上加速线路。",
+          "AI_CLOSING_TITLE": "从合适套餐开始",
+          "AI_DESCRIPTION": "，关注设备同时在线数量与每月流量额度，基础版适合个人轻量使用，旗舰版在多设备与游戏加速上更从容，团队版面向高带宽与多人协作场景。订阅按周期计费，年付方案在月付基础上提供更省心的长期选择，线路与节点池按套餐分级开放。",
+          "AI_FAQ_ANSWER_1": "同时在线设备数按套餐区分：基础版 3 台、旗舰版 5 台、团队版 20 台。达到上限后新设备需等待或升级套餐，日常可在客户端里查看当前连接状态。",
+          "AI_FAQ_ANSWER_2": "基础版每月 100GB，旗舰版 300GB，团队版 1000GB。流量按自然月重置，视频与游戏消耗较快，可按日均使用量估算所选套餐是否够用。",
+          "AI_FAQ_ANSWER_3": "基础版使用普通线路节点池，旗舰版与团队版开放更多高带宽与优化线路，其中旗舰版针对游戏场景做了专线优化，团队版提供 VIP 专属节点。",
+          "AI_FAQ_ANSWER_4": "月付灵活、年付更省，各套餐均支持月付与年付。基础版年付约 ¥150、旗舰版约 ¥350、团队版约 ¥850，可按使用时长选择周期。",
+          "AI_FAQ_ANSWER_5": "先确认设备系统与同时在线数量，再按每月流量需求选择对应套餐，随后在客户端内导入订阅链接，即可在常用设备上切换使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "一个套餐能同时几台设备使用？",
+          "AI_FAQ_QUESTION_2": "每月流量额度是多少、用完怎么办？",
+          "AI_FAQ_QUESTION_3": "不同套餐的线路有什么区别？",
+          "AI_FAQ_QUESTION_4": "月付和年付怎么选更划算？",
+          "AI_FAQ_QUESTION_5": "第一次使用该从哪里开始配置？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从设备数量、流量额度到线路等级，把套餐差异对应到日常使用场景。",
+          "AI_FEATURES_TITLE": "选择合适套餐",
+          "AI_FEATURE_TEXT_1": "基础版 100GB、旗舰版 300GB、团队版 1000GB，按每月用量挑选。",
+          "AI_FEATURE_TEXT_2": "同时在线设备从 3 台到 20 台，多人或全屋设备可选更高档套餐。",
+          "AI_FEATURE_TEXT_3": "年付方案比月付累计更省，适合确定长期使用的用户。",
+          "AI_FEATURE_TITLE_1": "流量额度",
+          "AI_FEATURE_TITLE_2": "设备数量",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "先确定设备与流量需求，再选择套餐并导入订阅，整个过程可逐步完成。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "KUGO 提供分档套餐，覆盖个人轻量使用到团队高带宽场景，按设备数量、每月流量与线路等级划分，订阅后通过客户端导入即可连接使用。",
+          "AI_HERO_SUBTITLE": "分档套餐，按需连接",
+          "AI_HIGHLIGHT_1": "三档套餐对应不同流量与设备数",
+          "AI_HIGHLIGHT_2": "旗舰版含专线游戏加速优化",
+          "AI_HIGHLIGHT_3": "年付方案比月付更省",
+          "AI_PLANS_INTRO": "基础版适合个人日常，旗舰版兼顾多设备与游戏，团队版面向高带宽与多人协作，对比流量、设备数与线路后即可选定。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量与每月流量需求，在基础版、旗舰版、团队版之间选定一档。",
+          "AI_STEP_TEXT_2": "确认设备系统与同时在线限制，核对所选套餐是否覆盖这些设备。",
+          "AI_STEP_TEXT_3": "在对应客户端内导入订阅链接，按客户端文档完成配置并连接使用。",
+          "AI_STEP_TITLE_1": "选定套餐",
+          "AI_STEP_TITLE_2": "查看适配",
+          "AI_STEP_TITLE_3": "导入订阅",
+          "AI_VISUAL_TITLE": "KUGO 套餐与订阅选择"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "grji4.cn",
+    "host": "grji4.cn"
+  },
+  "file_hashes": {
+    "index.html": "7f4a1a5b041c6d66dcaf6ca11ed4867b9b099847bbf16060b3f97eb24781dc1d",
+    "sitemap.xml": "b7f59754bb9a6a5fae5594facb1294581dc921fa9c59303960346fb1094561bd",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "9891442ece5df47a3b674158c62f730f87f71d9491ccbd84c1f8a39ce85e7a1f",
+    "robots.txt": "a551d80610d868bfffbd7b243c71cec4db8bb47c29e0c3cb2436d9cc2dfedcc5",
+    "a5f08f5590c5caf8094faadf3a81dfb4.txt": "638288caae8406620d301189fb3ae5f5b8e03f94227f538db3dab36c9eeafcf1"
+  },
+  "revision": "6d7f3c6fddb949f7fe2ef355b8bc481dbf536cb45f1db3f5158ca9d5f8d2fb8a"
+}
